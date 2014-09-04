@@ -1,0 +1,23 @@
+{
+  "name": "fluid-grid",
+  "version": "0.0.0",
+  "description": "Basic LESS Fluid Grid",
+  "main": "fluid-grid.less",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/danhart/fluid-grid.git"
+  },
+  "keywords": [
+    "fluid",
+    "grid"
+  ],
+  "author": "Dan Hart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danhart/fluid-grid/issues"
+  },
+  "homepage": "https://github.com/danhart/fluid-grid"
+}
