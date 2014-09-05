@@ -1,6 +1,6 @@
 {
   "name": "fluid-grid",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Basic LESS Fluid Grid",
   "main": "fluid-grid.less",
   "scripts": {
